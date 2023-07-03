@@ -1,2 +1,0 @@
-530efa7fca12611d21c2679ec4a03107792e4a13 220719375 elliptic_augmented_dataset.zip
-b076f8590588374ecbe54218f8555fe0caa42be7 146447095 elliptic_txs_.zip
